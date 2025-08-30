@@ -37,10 +37,12 @@ In this task I explored the possibility of developing a Movie Recommendation Sys
 
 - Run the Cells: Execute the notebook cells sequentially to see the analysis and visualizations.
 
+# Conclusion:
+
+The tuned model outperformed the default model by achieving higher accuracy and better overall performance metrics. This improvement can be attributed to the GridSearchCV optimization, which systematically explored different hyperparameter combinations to find the best configuration for the decision tree. In contrast, the default model relied on preset parameters that were not tailored to the dataset, resulting in lower predictive capability. This demonstrates the importance of hyperparameter tuning in improving model performance.
+
 # Author 
 
 By Immaculate Nayiga associated Github: immaculate098
 
-Conclusion:
 
-The tuned model outperformed the default model by achieving higher accuracy and better overall performance metrics. This improvement can be attributed to the GridSearchCV optimization, which systematically explored different hyperparameter combinations to find the best configuration for the decision tree. In contrast, the default model relied on preset parameters that were not tailored to the dataset, resulting in lower predictive capability. This demonstrates the importance of hyperparameter tuning in improving model performance.
